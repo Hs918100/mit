@@ -166,4 +166,5 @@ def main():
     compare_cow_transport_algorithms()
 if __name__=="__main__":
     main()
+    print('hi')
 
